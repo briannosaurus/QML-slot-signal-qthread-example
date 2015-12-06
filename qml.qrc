@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>bootstrap.worker.js</file>
+    </qresource>
+</RCC>
